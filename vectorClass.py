@@ -1,4 +1,4 @@
-"""This class will represent a two dimensional vector (x,y).
+"""This class will represent a two-dimensional vector (x,y).
    In this class users will be able to:
     - Magnitude
     - Add/Subtract
